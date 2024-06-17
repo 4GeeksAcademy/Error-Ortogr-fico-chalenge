@@ -1,23 +1,24 @@
 <!-- hide -->
-# El desafío del error ortográfico
+<!-- Cambio de idioma, aplicado al portugués-BR -->
+# O Desafio do Erro Ortográfico
 <!-- endhide -->
 
-Aprender en público significa colaboración y no tienes que ser un experto para colaborar. ¡Los errores ortográficos vienen al rescate! El perfecto rompehielos para las contribuciones de código abierto; arreglar un error ortográfico es fácil y no requiere de mucha experiencia en GitHub o Git.
- 
-## 🔷 Cómo corregir un error ortográfico en una lección de 4Geeks:  
+Aprender em público significa colaboração e você não precisa ser um especialista para contribuir. Os erros ortográficos estão aqui para ajudar! São a introdução perfeita para contribuições de código aberto; corrigir um erro ortográfico é simples e não requer muita experiência no GitHub ou Git.
 
-![editar en Github](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/assets/github-logo2.png?raw=true)
+## 🔷 Como corrigir um erro ortográfico em uma lição do 4Geeks:
 
-1. Haz clic en el ícono del lápiz que dice "Editar en Github" en la parte superior derecha de la lección, y el archivo fuente de la lección será editable.
+![editar no Github](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/assets/github-logo2.png?raw=true)
 
-2. Corrige el error ortográfico de la lección.
+1. Clique no ícone do lápis que diz "Editar no Github" no canto superior direito da lição, e o arquivo-fonte da lição será aberto para edição.
 
-3. Por último, haz clic en `"Pull Request"` (Proponer cambio de archivo).  
+2. Corrija o erro ortográfico na lição.
 
-## 📝 Instrucciones:
+3. Por último, clique em `"Pull Request"` (Solicitar mudança de arquivo).
 
-1. Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de 4Geeks y crea un `pull request` con la solución.
+## 📝 Instruções:
 
-> 👉 **IMPORTANTE**: busca otro proyecto para corregir, este proyecto ya se ha corregido lo suficiente 😂
+1. Encontre um erro ortográfico nas lições, projetos ou exercícios da 4Geeks e crie um `pull request` com a solução.
 
-Este y otros proyectos son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Cursos de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
+> 👉 **IMPORTANTE**: procure outro projeto para corrigir, este já foi corrigido o suficiente 😂
+
+Este e outros projetos são utilizados para [aprender a programar](https://4geeksacademy.com/pt/aprender-a-programar/aprender-a-programar-desde-cero) pelos alunos da 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) criado por [Alejandro Sánchez](https://twitter.com/alesanchezr) e muitos outros colaboradores. Saiba mais sobre nossos [Cursos de Programação](https://4geeksacademy.com/pt/curso-de-programacao-desde-cero?lang=pt) para se tornar um [Desenvolvedor Full Stack](https://4geeksacademy.com/pt/coding-bootcamps/desarrollador-full-stack/?lang=pt), ou sobre nosso [Data Science Bootcamp](https://4geeksacademy.com/pt/coding-bootcamps/curso-datascience-machine-learning).
